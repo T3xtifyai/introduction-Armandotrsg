@@ -1,48 +1,39 @@
-<h1>Octernship Information</h1>
+# Spoon AI
 
+Spoon AI is an app that aims to make cooking easy and fun for everyone. It is an AI-powered chef assistant that helps you with recipe suggestions, ingredient substitutions, cooking instructions, nutrition information, and more. You can use your voice to control the app and get personalized recommendations and tips based on your preferences, feedback, and dietary needs. Spoon AI can also connect with other smart devices in your kitchen and order food or groceries for you. Spoon AI is like having your own personal chef in your pocket. It can save you time, money, and hassle while improving your cooking skills and nutrition.
 
-<h3>Company information</h3>
-We are building a platform for easy discovery and commercialization of AI solutions. Think of us like "AppStore for AI" but with more diverse monetization options (Memberships, Targeted ads, Review farming, etc).
+## Features
 
-<h3>Why participate in an Octernship with GitHub</h3>
-Textify is changing the way the world builds and monetizes AI apps, and we want you to help build Textify! Our team actively contributes to the AI benchmarking and discovery community. In this role, you will have the opportunity to work as a AI engineer with a distributed, diverse & passionate team delivering features & improvements to our AI platform. You’ll get to work closely with external community contributors as well as internal stakeholders from engineering, design, security, support, product & leadership. Your work will have a direct impact on the lives of millions of AI users around the world.
+Some of the features of Spoon AI are:
 
-<h3>Octernship role description</h3>
-We're looking for a AI developer to join the App Development Team. This team is responsible for the AI tools to solve common problems faced by students.
+- Voice control: You can use your voice to interact with Spoon AI and ask for recipe suggestions, ingredient substitutions, cooking instructions, nutrition information, and more. You can also give feedback and ratings to the app and get personalized recommendations and tips based on your preferences and dietary needs.
+- Smart connectivity: Spoon AI can connect with other smart devices in your kitchen, such as your refrigerator, oven, or microwave, and help you manage your food inventory and cooking process. You can also order food or groceries through the app and get them delivered to your door.
+- AI-powered chef assistant: Spoon AI is more than just a recipe app. It is an AI-powered chef assistant that can help you with every aspect of cooking, from planning to preparing to serving. It can also learn from your behavior and improve its performance and functionality over time.
 
-<h4>Octernship info	Timelines and Stipend</h4>
-Assignment Deadline	1 April 2023
-Octernship Duration	2 Months
-Monthly Stipend	$500 USD
+## How will it work
 
-<h4>Recommended qualifications</h4>
-Experience with Git & GitHub
-Passion for AI applications
-Good communication and research skills
+Spoon AI will be able to answer anything related to cooking, such as:
 
-<h4>Eligibility</h4>
-To participate, you must be:
-<ul>A verified student on Global Campus</ul>
-<ul>18 years or older</ul>
-<ul>Active contributor on GitHub (monthly)</ul>
+- "What can I cook with chicken and broccoli?"
+- "How do I make lasagna if I am a vegan?"
+- "What can I substitute for eggs in a chocolate cake?"
+- "How many calories are in this dish?"
+- "Order me some pizza"
 
-<h4>Assignment</h4>
-<ul>Ideate on possible ways to monetize B2C AI solutions. </ul>
+Spoon AI will respond to your queries and provide you with relevant information and suggestions. You can also see the app interface on your screen and browse through different categories and options. You can also access the settings menu and customize your preferences and profile.
 
-<h4>Task instructions</h4>
-<ul> We want you to think of ways B2C AI solutions will be monetized in the future.
-For example, in the late 90s, search engines were a hot upcoming technology that allowed people to navigate the web effortlessly. There were multiple business models identified at the time varying in revenue generation capability and mass adoption. Finally, Search powered by targetted advertisement arose as the most suitable commercialization method for this technology.
-We want you to understand the cost structure of AI applications (development, hosting, sales, etc) and consider ways they can be best monetized allowing the best user experience and lower cost (targeted ads, memberships, government fundraising, etc.)
+## Gamification model
 
-</ul>
+Spoon AI uses gamification to create a more engaging and rewarding user experience. The app uses game-like elements and mechanics to motivate and reward users for using the app and achieving certain goals. Some of the gamification features are:
 
-<h4>Task Expectations</h4>
-We want you to identify a unique monetization opportunity with B2C AI applications. The solution should be both feasible and should also have potential to generate positive cashflow in a 10 period timeframe.
+- Points: Users can earn points based on their cooking activities, such as trying new recipes, following instructions, giving feedback, and sharing photos. Users can use their points to redeem rewards or participate in tournaments.
+- Badges: Users can earn badges for achieving certain milestones, such as cooking a certain number of dishes, using a certain number of ingredients, or cooking for a certain number of people. Users can display their badges on their profile or share them with other users.
+- Levels: Users can progress through levels as they accumulate more points and badges. Each level has a different name and icon that reflects the user's cooking skill and experience. Users can unlock more features and content as they advance to higher levels.
+- Leaderboard: Users can see their ranking based on their points and badges. The leaderboard shows the top users in different categories, such as overall, weekly, monthly, or by cuisine. Users can compare their progress and achievements with other users and compete for the top spots.
+- Challenges: Users can participate in challenges that test their cooking skills and creativity. Challenges can be based on different criteria, such as cooking a dish with a limited number of ingredients, cooking a dish from a different cuisine, or cooking a dish within a certain time limit. Users can earn extra points and badges for completing challenges or ranking high among other participants.
+- Rewards: Users can redeem rewards with their points. Rewards can include discounts, coupons, or freebies from food delivery or grocery services that partner with Spoon AI. Rewards can also include premium features, content, or rewards that are otherwise available through in-app purchases or subscriptions.
+- Tournaments: Users can participate in tournaments that are organized by Spoon AI or by other users. Tournaments are special events where users compete against each other to cook a specific dish or theme. Users have to pay a fee to enter a tournament and have a chance to win a monetary prize or other rewards. Tournaments can also have a jury that judges the results and shares them with the community.
 
-<h3>Task submission</h4>
+Spoon AI generates revenue from the gamification model by offering in-app purchases or subscriptions that allow users to unlock more features, content, or rewards. For example, the app offers premium recipes that users can access by paying a fee or subscribing to a monthly plan. The app also offers premium badges that users can earn by completing more difficult or rare challenges. The app also offers premium rewards that users can redeem with their points, such as exclusive discounts, coupons, or freebies from food delivery or grocery services.
 
-Students are expected to use the GitHub Flow when working on their project.
-Making changes on the auto generated feedback branch to complete the task
-Using the auto generated Feedback Pull Request for review and submission
-Using GitHub Discussions to ask any relevant questions regarding the project
-
+The gamification model attracts people to invest their money in Spoon AI because it provides them with more fun and value from using the app. By paying for more features, content, or rewards, users can enhance their cooking skills and enjoyment, as well as save money and time on food and groceries. Users are also motivated by the social and competitive aspects of the gamification model, such as comparing their progress and achievements with other users, showing off their skills and creativity, and participating in community events and activities.
